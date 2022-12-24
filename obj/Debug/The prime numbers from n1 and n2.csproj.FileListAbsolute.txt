@@ -1,0 +1,8 @@
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\bin\Debug\The prime numbers from n1 and n2.exe.config
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\bin\Debug\The prime numbers from n1 and n2.exe
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\bin\Debug\The prime numbers from n1 and n2.pdb
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\obj\Debug\The prime numbers from n1 and n2.csproj.AssemblyReference.cache
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\obj\Debug\The prime numbers from n1 and n2.csproj.SuggestedBindingRedirects.cache
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\obj\Debug\The prime numbers from n1 and n2.csproj.CoreCompileInputs.cache
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\obj\Debug\The prime numbers from n1 and n2.exe
+C:\Users\elkasas\source\repos\The prime numbers from n1 and n2\The prime numbers from n1 and n2\obj\Debug\The prime numbers from n1 and n2.pdb
